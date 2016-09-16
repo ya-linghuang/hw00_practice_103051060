@@ -1,0 +1,13 @@
+package hw00_practice_103051060;
+
+public class hw00_practice_103051060 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int sheep = 3499;
+		String nickName = "º¿²ú";
+		String action =  "¦³";
+		String
+	}
+
+}
